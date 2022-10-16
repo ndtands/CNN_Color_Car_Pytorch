@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+*/__pycache__
+weights/mbn_v2_model.pt
+weights/resnet18.pt
