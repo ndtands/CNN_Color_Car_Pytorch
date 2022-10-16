@@ -15,3 +15,7 @@
 ![classification_report](image/classification_report_train.png "classificaion_report_Train") ![confusion matrix](image/confusion_matrix_train.png "Confusion Matrix of Train")
 - confusion matrix of Test dataset
 ![classification_report](image/classification_report_test.png "classificaion_report_Train") ![confusion matrix](image/confusion_matrix_test.png "Confusion Matrix of Train")
+
+## 3. Prediction
+![KQ](image/KQ.png "KQ") 
+- Inference Time: 0.028s
